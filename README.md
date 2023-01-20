@@ -16,30 +16,30 @@ As I am always willing to share my progress, among my repositories you may find 
   
 * 💶 I am also a collector of notaphily and numismatics.
 
-* 👨‍🎓 I have enhanced my multitasking habilities at that point that I handled taking the first year lectures of the master I started in Germany along with the last year lectures of my career in Argentina.
+* 👨‍🎓 I have enhanced my multitasking habilities at that point that I handled taking the first year courses of the specialization I started in Germany, taking the last year lectures of my career in Argentina and leading a project for a South American Congress at the same time.
   
 #### My Skills
 
-![Alt text](https://img.shields.io/badge/java-red?style=for-the-badge&logo=openjdk&labelColor=101010)
-![Alt text](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&labelColor=101010)
-![Alt text](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&labelColor=101010)
-![Alt text](https://img.shields.io/badge/kubernetes-blue?style=for-the-badge&logo=kubernetes&labelColor=101010)
-![Alt text](https://img.shields.io/badge/nginx-darkgreen?style=for-the-badge&logo=nginx&labelColor=101010)
-![Alt text](https://img.shields.io/badge/springboot-green?style=for-the-badge&logo=springboot&labelColor=101010)
-![Alt text](https://img.shields.io/badge/mysql-lightgray?style=for-the-badge&logo=mysql&labelColor=101010)
-![Alt text](https://img.shields.io/badge/oracle-darkorange?style=for-the-badge&logo=oracle&labelColor=101010)
-![Alt text](https://img.shields.io/badge/mongodb-darklime?style=for-the-badge&logo=mongodb&labelColor=101010)
-![Alt text](https://img.shields.io/badge/scikitlearn-orange?style=for-the-badge&logo=scikitlearn&labelColor=101010)
-![Alt text](https://img.shields.io/badge/wikidata-white?style=for-the-badge&logo=wikidata&labelColor=101010)
-![Alt text](https://img.shields.io/badge/archlinux-lightblue?style=for-the-badge&logo=archlinux&labelColor=101010)
-![Alt text](https://img.shields.io/badge/manajro-lightgreen?style=for-the-badge&logo=manjaro&labelColor=101010)
+![Alt text](https://img.shields.io/badge/java-red?style=for-the-badge&logo=openjdk&labelColor=353535)
+![Alt text](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&labelColor=353535)
+![Alt text](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&labelColor=353535)
+![Alt text](https://img.shields.io/badge/kubernetes-blue?style=for-the-badge&logo=kubernetes&labelColor=353535)
+![Alt text](https://img.shields.io/badge/nginx-darkgreen?style=for-the-badge&logo=nginx&labelColor=353535)
+![Alt text](https://img.shields.io/badge/springboot-green?style=for-the-badge&logo=springboot&labelColor=353535)
+![Alt text](https://img.shields.io/badge/mysql-lightgray?style=for-the-badge&logo=mysql&labelColor=353535)
+![Alt text](https://img.shields.io/badge/oracle-darkorange?style=for-the-badge&logo=oracle&labelColor=353535)
+![Alt text](https://img.shields.io/badge/mongodb-darklime?style=for-the-badge&logo=mongodb&labelColor=353535)
+![Alt text](https://img.shields.io/badge/scikitlearn-orange?style=for-the-badge&logo=scikitlearn&labelColor=353535)
+![Alt text](https://img.shields.io/badge/wikidata-white?style=for-the-badge&logo=wikidata&labelColor=353535)
+![Alt text](https://img.shields.io/badge/archlinux-lightblue?style=for-the-badge&logo=archlinux&labelColor=353535)
+![Alt text](https://img.shields.io/badge/manajro-lightgreen?style=for-the-badge&logo=manjaro&labelColor=353535)
 </details>
 
 ### You may find me here
 <div align="center">
   
-[![Alt text](https://img.shields.io/badge/rodrigogcespedes@gmail.com-lightpink?style=for-the-badge&logo=gmail&labelColor=101010)](mailto:rodrigogcespedes@gmail.com)
-[![Alt text](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&labelColor=353535)](https://www.linkedin.com/in/rodrigo-gabriel-cespedes-ortega-39884a249/)
+[![Alt text](https://img.shields.io/badge/rodrigogcespedes@gmail.com-lightpink?style=for-the-badge&logo=gmail&labelColor=353535)](mailto:rodrigogcespedes@gmail.com)
+[![Alt text](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&labelColor=353535)](https://www.linkedin.com/in/rodrigogcespedes)
 
-### Here you can find some of the projects in which I have been part of.
+### Down below you can find some of the projects in which I have been part of.
 </div>
