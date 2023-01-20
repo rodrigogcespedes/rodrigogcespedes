@@ -1,16 +1,45 @@
-### Hi there 👋
+<div align="center">
+  
+  # Welcome to my Profile!
+</div>
 
-<!--
-**rodrigogcespedes/rodrigogcespedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Hello there! This is my profile and here you may find anything!
 
-Here are some ideas to get you started:
+I am Rodrigo Cespedes, an Information Systems engineer specialiced in Microservices Architecture and now also trying to learn more about knowledge discovery.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As I am always willing to share my progress, among my repositories you may find microservices environments with several different tools integrated, data sicience pipelines, services with web ontologies queries and many other miselaneus projects of mine. Please, feel free to take a look.
+
+<details>
+  <summary>A little bit about me</summary>
+  
+* 💾 I am a keen of operative systems. The distro I am currently using is Manjaro and I enjoy tweaking it on my preferencies.
+  
+* 💶 I am also a collector of notaphily and numismatics.
+
+* 👨‍🎓 I have enhanced my multitasking habilities at that point that I handled taking the first year lectures of the master I started in Germany along with the last year lectures of my career in Argentina.
+  
+#### My Skills
+
+![Alt text](https://img.shields.io/badge/java-red?style=for-the-badge&logo=openjdk&labelColor=101010)
+![Alt text](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&labelColor=101010)
+![Alt text](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&labelColor=101010)
+![Alt text](https://img.shields.io/badge/kubernetes-blue?style=for-the-badge&logo=kubernetes&labelColor=101010)
+![Alt text](https://img.shields.io/badge/nginx-darkgreen?style=for-the-badge&logo=nginx&labelColor=101010)
+![Alt text](https://img.shields.io/badge/springboot-green?style=for-the-badge&logo=springboot&labelColor=101010)
+![Alt text](https://img.shields.io/badge/mysql-lightgray?style=for-the-badge&logo=mysql&labelColor=101010)
+![Alt text](https://img.shields.io/badge/oracle-darkorange?style=for-the-badge&logo=oracle&labelColor=101010)
+![Alt text](https://img.shields.io/badge/mongodb-darklime?style=for-the-badge&logo=mongodb&labelColor=101010)
+![Alt text](https://img.shields.io/badge/scikitlearn-orange?style=for-the-badge&logo=scikitlearn&labelColor=101010)
+![Alt text](https://img.shields.io/badge/wikidata-white?style=for-the-badge&logo=wikidata&labelColor=101010)
+![Alt text](https://img.shields.io/badge/archlinux-lightblue?style=for-the-badge&logo=archlinux&labelColor=101010)
+![Alt text](https://img.shields.io/badge/manajro-lightgreen?style=for-the-badge&logo=manjaro&labelColor=101010)
+</details>
+
+### You may find me here
+<div align="center">
+  
+[![Alt text](https://img.shields.io/badge/rodrigogcespedes@gmail.com-lightpink?style=for-the-badge&logo=gmail&labelColor=101010)](mailto:rodrigogcespedes@gmail.com)
+[![Alt text](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&labelColor=353535)](https://www.linkedin.com/in/rodrigo-gabriel-cespedes-ortega-39884a249/)
+
+### Here you can find some of the projects in which I have been part of.
+</div>
