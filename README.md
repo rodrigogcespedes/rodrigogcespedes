@@ -5,18 +5,18 @@
 
 #### Hello there! This is my profile and here you may find anything!
 
-I am Rodrigo Cespedes, an Information Systems engineer specialiced in Microservices Architecture and now also trying to learn more about knowledge discovery.
+I am Rodrigo Cespedes, an Information Systems engineer specialized in Microservices Architecture and now also trying to learn more about knowledge discovery.
 
-As I am always willing to share my progress, among my repositories you may find microservices environments with several different tools integrated, data sicience pipelines, services with web ontologies queries and many other miselaneus projects of mine. Please, feel free to take a look.
+As I am always willing to share my progress, among my repositories you may find microservices environments with several different tools integrated, data science pipelines, services with web ontologies queries and many other miscellaneous projects of mine. Please, feel free to take a look.
 
 <details>
   <summary>A little bit about me</summary>
   
-* 💾 I am a keen of operative systems. The distro I am currently using is Manjaro and I enjoy tweaking it on my preferencies.
+* 💾 I am keen on operative systems. The distro I am currently using is Manjaro and I enjoy tweaking it according to my preferences.
   
 * 💶 I am also a collector of notaphily and numismatics.
 
-* 👨‍🎓 I have enhanced my multitasking habilities at that point that I handled taking the first year courses of the specialization I started in Germany, taking the last year lectures of my career in Argentina and leading a project for a South American Congress at the same time.
+* 👨‍🎓 I have enhanced my multitasking abilities at that point that I handled taking the first year courses of the specialization I started in Germany, taking the last year lectures of my career in Argentina and leading a project for a South American Congress at the same time.
   
 #### My Skills
 
